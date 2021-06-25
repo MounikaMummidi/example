@@ -8,6 +8,7 @@ public class Adding {
 		int d= a-b;
 		System.out.println(c);
 		System.out.println(d);
+		System.out.println("Addition and subtraction is done");
 		
 
 	}
